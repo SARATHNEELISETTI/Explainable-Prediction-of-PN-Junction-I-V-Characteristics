@@ -1,0 +1,14 @@
+{
+  "R2": 0.961531,
+  "Adjusted_R2": 0.961476,
+  "Explained_Variance": 0.961532,
+  "MAE_decades": 0.297189,
+  "MedianAE_decades": 0.053295,
+  "RMSE_decades": 1.229622,
+  "MaxError_decades": 13.750666,
+  "R2_current": 0.896308,
+  "RMSE_current_A": 0.001143,
+  "MAE_current_A": 0.000182,
+  "within_3x_pct": 91.789423,
+  "within_1p8x_pct": 82.781937
+}
